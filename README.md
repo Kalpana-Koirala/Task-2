@@ -13,13 +13,13 @@
 ## Descriptive Statistics & Univariate Analysis
 
 ## SQL Business Questions
-- 1	Top 5 products by revenue	: Aggregation, sorting
-- 2	Monthly revenue & active customer trend :	Date functions, DISTINCT
-- 3	Revenue & AOV by city :	Multi-aggregate, NULL handling
-- 4	Which age group buys most per category? :	CASE binning, multi-GROUP BY
-- 5	Top 5 customers by spend : Multi-column GROUP BY
-- 6	AOV difference by gender :	Simple GROUP BY comparison
-- 7	Category revenue vs. target : (JOIN)	Multi-table JOIN
+- 	Top 5 products by revenue	: Aggregation, sorting
+- 	Monthly revenue & active customer trend :	Date functions, DISTINCT
+- 	Revenue & AOV by city :	Multi-aggregate, NULL handling
+- 	Which age group buys most per category? :	CASE binning, multi-GROUP BY
+- 	Top 5 customers by spend : Multi-column GROUP BY
+- 	AOV difference by gender :	Simple GROUP BY comparison
+- 	Category revenue vs. target : (JOIN)	Multi-table JOIN
   
 ## Multivariate Analysis & Correlation
 ## Repeat Customer Rate
