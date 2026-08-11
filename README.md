@@ -11,9 +11,9 @@
 
 ## Task Performed
 ## Descriptive Statistics & Univariate Analysis
-# Numerical fields summary query
+### Numerical fields summary query
 - Calculates the mean, median, standard deviation, minimum, and maximum of Total_Sales to summarize the spread and typical value of order amounts.
-#Categorical fields summary query
+### Categorical fields summary query
 - Counts orders per Category and calculates each category's percentage share of total orders, sorted from most to least frequent.
   
 ## SQL Business Questions
